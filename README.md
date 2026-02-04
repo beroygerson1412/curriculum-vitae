@@ -3,7 +3,7 @@
 A clean, modern, and minimalist personal CV website designed for college students to showcase their education, skills, and contact information without the need for complex frameworks.
 
 ## 🚀 Live Demo
-[Link to Live Site](https://yourusername.github.io/repo-name)
+[Link to Live Site](https://beroygerson1412.github.io/curriculum-vitae/)
 
 ## 📖 About The Project
 
@@ -35,7 +35,7 @@ The project consists of a single file for simplicity and ease of deployment:
 
 * `index.html`: Contains all HTML structure, internal CSS styles, and JavaScript logic in one place.
 
-👤 Author
+👤 Author: 
 Gerson Beroy
 
 GitHub: https://github.com/beroygerson1412
