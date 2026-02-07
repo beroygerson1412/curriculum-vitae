@@ -19,7 +19,6 @@ This project is a single-page static website built to serve as a digital curricu
 * **Smooth Navigation:** Features a sticky navigation bar with smooth scrolling between sections.
 * **Mobile-First:** Includes a fully functional hamburger menu for smaller screens.
 * **Interactive Elements:** Subtle fade-in animations on scroll and hover effects for better user engagement.
-* **Easy to Edit:** Structured code with clear comments for customization.
 
 ## 🛠️ Built With
 
